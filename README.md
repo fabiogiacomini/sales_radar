@@ -90,7 +90,7 @@ feed RSS Google News · JavaScript nei nodi di elaborazione · invio SMTP.
 
 ## Licenza e utilizzo
 
-**Tutti i diritti riservati.** Vedi [LICENSE](blob/main/LICENSE).
+**Tutti i diritti riservati.** Vedi License (https://github.com/fabiogiacomini/sales_radar/blob/main/license).
 
 Questo repository ha finalità dimostrative. Il workflow eseguibile non è incluso e non è
 concesso in uso, riproduzione o opera derivata. Per collaborazioni: contattami.
